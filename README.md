@@ -1,4 +1,6 @@
 ## <h1 align="center">Hello, I'm <a href="https://cmejia.tech/">Carlos</a> 👋</h1>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h-fares&label=Profile%20views&color=0e75b6&style=flat" alt="h-fares" /> </p>
 
