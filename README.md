@@ -6,7 +6,7 @@
 ```js
 import SoftwareDeveloper from 'carlos';
 
-class Bio extends SoftwareDeveloper {
+class About extends SoftwareDeveloper {
   name     = 'Carlos Mejia';
   title    = 'Software Engineer';
   company  = 'Cmejia Tech | Remote';
@@ -49,7 +49,7 @@ class Skills extends SoftwareDeveloper {
   
   <a href="https://cmejia.tech/" target="_blank">
       <img align="center" alt="portfolio | Carlos" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />
-  </a> &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
    
   <a href="https://profile-summary-for-github.herokuapp.com/user/carlosmejia181414" target="_blank">
     <img align="center" alt="Carlos | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
