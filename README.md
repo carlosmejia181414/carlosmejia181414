@@ -39,6 +39,9 @@ class Projects extends MyPortfolio {
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+<img width="50%" align="center" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+## 
 ## 
 <p align="center">
   <a href="mailto:carlosmejia1814@gmail.com" >
