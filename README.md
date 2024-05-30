@@ -1,4 +1,4 @@
-## <h1 align="center">Hello, I'm <a href="https://cmejia.tech/">Carlos</a> 👋</h1>
+<h1 align="center">Hello, I'm <a href="https://cmejia.tech/">Carlos</a> 👋</h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h-fares&label=Profile%20views&color=0e75b6&style=flat" alt="h-fares" /> </p>
@@ -39,9 +39,28 @@ class Projects extends MyPortfolio {
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img width="50%" align="center" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="40%" align="center">
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
 
-## 
+<td width="40%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+</p>        
+<!--- stats (end) -->
+ 
 ## 
 <p align="center">
   <a href="mailto:carlosmejia1814@gmail.com" >
