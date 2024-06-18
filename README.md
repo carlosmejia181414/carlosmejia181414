@@ -3,6 +3,13 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h-fares&label=Profile%20views&color=0e75b6&style=flat" alt="h-fares" /> </p>
 
+<p align="center">
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-mejia14/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carlosmejia1814@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://mayurjadhav-1998.github.io/Resume/)](https://cmejia.tech/)
+[![Github](https://img.shields.io/github/followers/MayurJadhav-1998?label=Follow&style=social)](https://github.com/carlosmejia181414) 
+</p>
+
 ```js
 import SoftwareDeveloper from 'carlos';
 
